@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python ASR_sample.py --model facebook/bart-base --sample data_info --start-end 1 10 --attack_type TextFooler --generated-data-file data.csv --chunk 2

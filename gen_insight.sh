@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python data_insight.py --model google/electra-base-discriminator --sample data_info --start-end 0 100 --generated-data-file data.csv --chunk 10

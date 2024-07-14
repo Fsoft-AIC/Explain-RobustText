@@ -1,0 +1,10 @@
+transformers[torch]
+OpenAttack
+scikit-learn
+matplotlib
+hdbscan
+gensim
+umap-learn
+wordcloud
+top2vec[sentence_encoders]
+language-tool-python

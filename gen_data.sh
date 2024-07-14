@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 TOKENIZERS_PARALLELISM=false python run_sample_data.py --model distilroberta-base --sample data_info --start-end 0 10 --generated-data-file data.csv
